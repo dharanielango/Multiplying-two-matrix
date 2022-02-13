@@ -32,7 +32,7 @@ print("Product of two arrays is:",result)
 ~~~
 
 ## OUTPUT:
-![output](.\E.png)
+![output](./E.png)
 
 
 ## RESULT:
